@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3DGrahic", "3DGrahic\3DGrahic.vcxproj", "{7BBB044B-5F28-4F30-B52B-1D0867A7D5C1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3DGraphicAndCameraViewer", "3DGraphicAndCameraViewer\3DGraphicAndCameraViewer.vcxproj", "{C44B48F6-3224-4E05-B853-C3135D5C3A4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BBB044B-5F28-4F30-B52B-1D0867A7D5C1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7BBB044B-5F28-4F30-B52B-1D0867A7D5C1}.Debug|Win32.Build.0 = Debug|Win32
+		{7BBB044B-5F28-4F30-B52B-1D0867A7D5C1}.Release|Win32.ActiveCfg = Release|Win32
+		{7BBB044B-5F28-4F30-B52B-1D0867A7D5C1}.Release|Win32.Build.0 = Release|Win32
+		{C44B48F6-3224-4E05-B853-C3135D5C3A4A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C44B48F6-3224-4E05-B853-C3135D5C3A4A}.Debug|Win32.Build.0 = Debug|Win32
+		{C44B48F6-3224-4E05-B853-C3135D5C3A4A}.Release|Win32.ActiveCfg = Release|Win32
+		{C44B48F6-3224-4E05-B853-C3135D5C3A4A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
